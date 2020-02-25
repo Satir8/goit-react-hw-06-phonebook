@@ -1,0 +1,9 @@
+.headingTitle-enter {
+    opacity: 0;
+  }
+  
+  .headingTitle-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in-out;
+  }
+  

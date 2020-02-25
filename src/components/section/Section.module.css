@@ -1,0 +1,8 @@
+.heading {
+  display: block;
+  width: 100%;
+  color: rgb(64, 121, 228);
+  font-size: 40px;
+  font-family: Helvetica, sans-serif;
+  margin: 40px 0px;
+}

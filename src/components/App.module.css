@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.globalBox {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 0 auto;
+}
