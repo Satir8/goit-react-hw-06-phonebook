@@ -1,5 +1,4 @@
 import { Type } from "./phoneBookActions";
-// import { v1 as uuidv1 } from "uuid";
 
 export const contactReducer = (state = [], { type, payload }) => {
   switch (type) {
